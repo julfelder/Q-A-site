@@ -132,6 +132,9 @@ dl p {
   padding-left: 20px;
   font-style: italic;
 }
+#topPic{
+	display: block;
+}
 
 hr {
   border:0;
