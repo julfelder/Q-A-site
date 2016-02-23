@@ -339,6 +339,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
+    background-color: green;
     width:auto;
     margin:0;
   }
