@@ -205,9 +205,10 @@ td {
 	background: #ccc;
  }
 
-
+}
 /* Wrapper */
 .wrapper {
+  background-color: green;
   width:960px;
 }
 
